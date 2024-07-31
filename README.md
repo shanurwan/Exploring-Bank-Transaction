@@ -1,5 +1,5 @@
 # Understanding Your Customers Through SQL
 
-#Introduction
+Introduction
 
 This project 
